@@ -1,0 +1,9 @@
+/*Doy estilo al boton y a el texto*/
+p,input,button{
+    width:100%;
+}
+button{
+    background: green;
+    color: blue;
+    border-radius: 10px;
+}
